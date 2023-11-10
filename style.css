@@ -9,3 +9,11 @@ p {
 em strong {
     color: #ff0000;
 }
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
