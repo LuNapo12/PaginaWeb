@@ -21,3 +21,7 @@ h1 {
 .itens {
     font-style: italic;
 }
+
+h2 {
+    text-align: center;
+}
